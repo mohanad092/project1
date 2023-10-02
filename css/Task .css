@@ -1,0 +1,32 @@
+
+body{
+    background-color: rgb(133, 133, 225);
+}
+
+
+div{
+
+    background-color: blue;
+    width: 400px;
+    border-radius: 30PX;
+    
+    
+}
+h1{
+    color: white;
+}
+input{
+    
+    
+    border: none;
+    border-radius: 10px;
+    border: none;
+}
+button{
+    width: 300px;
+    height: 30px;
+    background-color: white;
+    border-radius: 30px;
+    color: blue;
+    
+}
